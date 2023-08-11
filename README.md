@@ -27,7 +27,7 @@ Hint: Use the Repetition, Array and Object keys methods (please look for referen
  File naming explanation:
 - soal1.js = taskOne.js
 - soal2.js = taskTwo.js
-           = taskTwo.data.js
+           + taskTwo.data.js
 
 ## Features
 
