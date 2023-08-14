@@ -1,5 +1,5 @@
 # javascript-task-sanber47
-Welcome to one of my javascript task portfolio/documentation for sanber course.
+Welcome to one of my javascript task portfolio/documentation for sanbercode course.
 
 ## Table of Contents
 
