@@ -6,6 +6,8 @@ Welcome to one of my javascript task portfolio/documentation for sanbercode cour
 - [Tasks](#tasks)
 - [Navigation](#navigation)
 - [Features](#features)
+- [Run](#run)
+- [Results](#results)
 
 ## Tasks
 1. (soal1.js) Write a program from the square root of x where x must be an even number, with the following conditions:
@@ -29,8 +31,18 @@ Hint: Use the Repetition, Array and Object keys methods (please look for referen
 - soal2.js = taskTwo.js
            + taskTwo.data.js
 
+## Run
+
+node taskOne.js
+node taskTwo.js
+
 ## Features
 
 List the key features:
   1. taskOne.js
   2. taskTwo.js & taskTwo.data.js
+
+## Results
+
+![image](https://github.com/kettei/javascript-task-sanbercode-47/assets/42662172/e63cc64e-85d7-4436-a1e0-71d7c5179a3d)
+
